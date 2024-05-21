@@ -1,0 +1,7 @@
+name: azure-go
+runtime: go
+description: deploying simple static page in blob storage
+config:
+  pulumi:tags:
+    value:
+      pulumi:template: azure-go
